@@ -5,7 +5,7 @@
  * 展示如何使用存储模块的各种功能
  */
 
-import React, { useState } from 'react';
+import { useState } from 'react';
 import {
   Text,
   View,
